@@ -9,6 +9,7 @@
    nodePackages.typescript
    nodePackages.live-server lsd
    nodePackages.prettier htop
+   nodejs
    bat luajit
  ];
 }
